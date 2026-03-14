@@ -1,2 +1,9 @@
 # ecommerce-sales-eda-powerbi
-Exploratory Data Analysis (EDA) and Power BI dashboard for E-commerce Sales dataset using Python, Pandas, Seaborn, and Power BI.
+data-analysis
+exploratory-data-analysis
+python
+pandas
+powerbi
+data-visualization
+ecommerce-analysis
+eda-project
